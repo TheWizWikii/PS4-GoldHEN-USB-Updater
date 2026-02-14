@@ -23,7 +23,7 @@ Una herramienta sencilla y eficaz diseñada para automatizar la preparación de 
 ### 📋 Requisitos
 
 * Windows 10 o superior.
-* .NET 8.0 Runtime instalado.
+* .NET 8.0 Runtime instalado [https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.24-windows-x64-installer].
 * Conexión a internet para descargar los payloads actualizados.
 
 ---
